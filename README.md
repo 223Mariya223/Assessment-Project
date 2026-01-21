@@ -1,4 +1,4 @@
-This repository contains a Selenium Java automation testing project developed as part of an assessment for n11. The project demonstrates web UI test automation using Selenium WebDriver, Java, Maven, and TestNG,
+This repository contains a Selenium Java automation testing project developed as part of an assessment. The project demonstrates web UI test automation using Selenium WebDriver, Java, Maven, and TestNG,
 following standard automation framework practices.
 Programming Language: Java
 Automation Tool: Selenium WebDriver
